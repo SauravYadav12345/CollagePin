@@ -5,6 +5,7 @@
   "scripts": {
     "start": "node ./bin/www"
   },
+
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
@@ -21,3 +22,4 @@
     "uuid": "^9.0.1"
   }
 }
+
